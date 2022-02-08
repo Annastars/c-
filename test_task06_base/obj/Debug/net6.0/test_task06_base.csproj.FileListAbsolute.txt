@@ -1,0 +1,15 @@
+/Users/mac/Documents/hometask_cs/test_task06_base/bin/Debug/net6.0/test_task06_base
+/Users/mac/Documents/hometask_cs/test_task06_base/bin/Debug/net6.0/test_task06_base.deps.json
+/Users/mac/Documents/hometask_cs/test_task06_base/bin/Debug/net6.0/test_task06_base.runtimeconfig.json
+/Users/mac/Documents/hometask_cs/test_task06_base/bin/Debug/net6.0/test_task06_base.dll
+/Users/mac/Documents/hometask_cs/test_task06_base/bin/Debug/net6.0/ref/test_task06_base.dll
+/Users/mac/Documents/hometask_cs/test_task06_base/bin/Debug/net6.0/test_task06_base.pdb
+/Users/mac/Documents/hometask_cs/test_task06_base/obj/Debug/net6.0/test_task06_base.csproj.AssemblyReference.cache
+/Users/mac/Documents/hometask_cs/test_task06_base/obj/Debug/net6.0/test_task06_base.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/hometask_cs/test_task06_base/obj/Debug/net6.0/test_task06_base.AssemblyInfoInputs.cache
+/Users/mac/Documents/hometask_cs/test_task06_base/obj/Debug/net6.0/test_task06_base.AssemblyInfo.cs
+/Users/mac/Documents/hometask_cs/test_task06_base/obj/Debug/net6.0/test_task06_base.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/hometask_cs/test_task06_base/obj/Debug/net6.0/test_task06_base.dll
+/Users/mac/Documents/hometask_cs/test_task06_base/obj/Debug/net6.0/ref/test_task06_base.dll
+/Users/mac/Documents/hometask_cs/test_task06_base/obj/Debug/net6.0/test_task06_base.pdb
+/Users/mac/Documents/hometask_cs/test_task06_base/obj/Debug/net6.0/test_task06_base.genruntimeconfig.cache

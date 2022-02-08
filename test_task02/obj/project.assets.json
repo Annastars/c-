@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mac/Documents/hometask_cs/test_task02/test_task02.csproj",
-      "projectName": "test_task02",
-      "projectPath": "/Users/mac/Documents/hometask_cs/test_task02/test_task02.csproj",
+      "projectUniqueName": "/Users/mac/Documents/hometask_cs/test_task01/test_task01.csproj",
+      "projectName": "test_task01",
+      "projectPath": "/Users/mac/Documents/hometask_cs/test_task01/test_task01.csproj",
       "packagesPath": "/Users/mac/.nuget/packages/",
-      "outputPath": "/Users/mac/Documents/hometask_cs/test_task02/obj/",
+      "outputPath": "/Users/mac/Documents/hometask_cs/test_task01/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mac/.nuget/NuGet/NuGet.Config"
