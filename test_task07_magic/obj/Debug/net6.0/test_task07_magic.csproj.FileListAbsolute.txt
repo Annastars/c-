@@ -1,0 +1,15 @@
+/Users/mac/Documents/hometask_cs/test_task07_magic/bin/Debug/net6.0/test_task07_magic
+/Users/mac/Documents/hometask_cs/test_task07_magic/bin/Debug/net6.0/test_task07_magic.deps.json
+/Users/mac/Documents/hometask_cs/test_task07_magic/bin/Debug/net6.0/test_task07_magic.runtimeconfig.json
+/Users/mac/Documents/hometask_cs/test_task07_magic/bin/Debug/net6.0/test_task07_magic.dll
+/Users/mac/Documents/hometask_cs/test_task07_magic/bin/Debug/net6.0/ref/test_task07_magic.dll
+/Users/mac/Documents/hometask_cs/test_task07_magic/bin/Debug/net6.0/test_task07_magic.pdb
+/Users/mac/Documents/hometask_cs/test_task07_magic/obj/Debug/net6.0/test_task07_magic.csproj.AssemblyReference.cache
+/Users/mac/Documents/hometask_cs/test_task07_magic/obj/Debug/net6.0/test_task07_magic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/hometask_cs/test_task07_magic/obj/Debug/net6.0/test_task07_magic.AssemblyInfoInputs.cache
+/Users/mac/Documents/hometask_cs/test_task07_magic/obj/Debug/net6.0/test_task07_magic.AssemblyInfo.cs
+/Users/mac/Documents/hometask_cs/test_task07_magic/obj/Debug/net6.0/test_task07_magic.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/hometask_cs/test_task07_magic/obj/Debug/net6.0/test_task07_magic.dll
+/Users/mac/Documents/hometask_cs/test_task07_magic/obj/Debug/net6.0/ref/test_task07_magic.dll
+/Users/mac/Documents/hometask_cs/test_task07_magic/obj/Debug/net6.0/test_task07_magic.pdb
+/Users/mac/Documents/hometask_cs/test_task07_magic/obj/Debug/net6.0/test_task07_magic.genruntimeconfig.cache
