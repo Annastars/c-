@@ -1,0 +1,15 @@
+/Users/mac/Documents/hometask_cs/seminar04/obj/Debug/net6.0/seminar04.csproj.AssemblyReference.cache
+/Users/mac/Documents/hometask_cs/seminar04/obj/Debug/net6.0/seminar04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/hometask_cs/seminar04/obj/Debug/net6.0/seminar04.AssemblyInfoInputs.cache
+/Users/mac/Documents/hometask_cs/seminar04/obj/Debug/net6.0/seminar04.AssemblyInfo.cs
+/Users/mac/Documents/hometask_cs/seminar04/obj/Debug/net6.0/seminar04.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/hometask_cs/seminar04/bin/Debug/net6.0/seminar04
+/Users/mac/Documents/hometask_cs/seminar04/bin/Debug/net6.0/seminar04.deps.json
+/Users/mac/Documents/hometask_cs/seminar04/bin/Debug/net6.0/seminar04.runtimeconfig.json
+/Users/mac/Documents/hometask_cs/seminar04/bin/Debug/net6.0/seminar04.dll
+/Users/mac/Documents/hometask_cs/seminar04/bin/Debug/net6.0/ref/seminar04.dll
+/Users/mac/Documents/hometask_cs/seminar04/bin/Debug/net6.0/seminar04.pdb
+/Users/mac/Documents/hometask_cs/seminar04/obj/Debug/net6.0/seminar04.dll
+/Users/mac/Documents/hometask_cs/seminar04/obj/Debug/net6.0/ref/seminar04.dll
+/Users/mac/Documents/hometask_cs/seminar04/obj/Debug/net6.0/seminar04.pdb
+/Users/mac/Documents/hometask_cs/seminar04/obj/Debug/net6.0/seminar04.genruntimeconfig.cache
