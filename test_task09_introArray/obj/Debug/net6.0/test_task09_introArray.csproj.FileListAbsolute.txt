@@ -1,0 +1,15 @@
+/Users/mac/Documents/hometask_cs/test_task09_introArray/bin/Debug/net6.0/test_task09_introArray
+/Users/mac/Documents/hometask_cs/test_task09_introArray/bin/Debug/net6.0/test_task09_introArray.deps.json
+/Users/mac/Documents/hometask_cs/test_task09_introArray/bin/Debug/net6.0/test_task09_introArray.runtimeconfig.json
+/Users/mac/Documents/hometask_cs/test_task09_introArray/bin/Debug/net6.0/test_task09_introArray.dll
+/Users/mac/Documents/hometask_cs/test_task09_introArray/bin/Debug/net6.0/ref/test_task09_introArray.dll
+/Users/mac/Documents/hometask_cs/test_task09_introArray/bin/Debug/net6.0/test_task09_introArray.pdb
+/Users/mac/Documents/hometask_cs/test_task09_introArray/obj/Debug/net6.0/test_task09_introArray.csproj.AssemblyReference.cache
+/Users/mac/Documents/hometask_cs/test_task09_introArray/obj/Debug/net6.0/test_task09_introArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/hometask_cs/test_task09_introArray/obj/Debug/net6.0/test_task09_introArray.AssemblyInfoInputs.cache
+/Users/mac/Documents/hometask_cs/test_task09_introArray/obj/Debug/net6.0/test_task09_introArray.AssemblyInfo.cs
+/Users/mac/Documents/hometask_cs/test_task09_introArray/obj/Debug/net6.0/test_task09_introArray.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/hometask_cs/test_task09_introArray/obj/Debug/net6.0/test_task09_introArray.dll
+/Users/mac/Documents/hometask_cs/test_task09_introArray/obj/Debug/net6.0/ref/test_task09_introArray.dll
+/Users/mac/Documents/hometask_cs/test_task09_introArray/obj/Debug/net6.0/test_task09_introArray.pdb
+/Users/mac/Documents/hometask_cs/test_task09_introArray/obj/Debug/net6.0/test_task09_introArray.genruntimeconfig.cache
